@@ -1,8 +1,8 @@
 # Repositorio Jupyter
 
-## Comandos
+![Descripción de la imagen](https://github.com/user-attachments/assets/1c7f0921-cec1-4ad9-9409-c65df8a31b4f)
 
-1. **Línea 1:** Bienvenida al repositorio Jupyter, donde exploramos herramientas y técnicas de análisis de datos.
-2. **Línea 2:** Comando para ejecutar el script denominado "bicho pela'o", diseñado para procesar información específica.
-3. **Línea 3:** Análisis comparativo: Argumentos que respaldan la afirmación de que Lionel Messi supera a Cristiano Ronaldo en diversos aspectos del fútbol.
-4. **Línea 4:** Perspectiva crítica: Una evaluación sobre la percepción de Fernando Alonso en el automovilismo y su posible sobrevaloración en la historia reciente.
+## Cambios
+
+- **Mejoras:** Se ha optimizado el archivo README para una mejor claridad y estructura.
+- **Eliminación:** Se han eliminado líneas innecesarias para simplificar el contenido.
